@@ -15,6 +15,7 @@ const targets = {
         platform: 'linux',
         arch: 'x64'
     },
+
     ['x86_64-apple-darwin']: {
         folder: 'osx',
         files: ['libsteam_api.dylib'],
